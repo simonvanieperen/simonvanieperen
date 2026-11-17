@@ -26,7 +26,9 @@ The project explores operating system architecture, security boundaries, userspa
 
 ## Learning
 
-- **OpenAI Academy — Build with AI: Codex Pathway Completion** (November 2026)
+- **[OpenAI Academy — Build with AI: Codex Pathway Completion](https://oaiacademy.credential.net/3c6a70fc-3d5f-4630-aa76-3347577b3b05#acc.QxMyB4Vu)** (November 2026)
+
+[View my credential wallet](https://www.credential.net/profile/simonvanieperen/wallet)
 
 I value continuous learning, but consider working projects, documented decisions, and reproducible evidence more informative than a list of badges.
 
